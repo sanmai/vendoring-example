@@ -1,7 +1,8 @@
 package example
 
 import "fmt"
+import "test.ru/world"
 
 func Hello() {
-	fmt.Println("hello world")
+	fmt.Println(world.Example())
 }
