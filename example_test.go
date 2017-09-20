@@ -8,3 +8,8 @@ func Example() {
 	example.Hello()
 	// Output: hello world
 }
+
+func ExampleMain() {
+	main()
+	// Output: hello world
+}
